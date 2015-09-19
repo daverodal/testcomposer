@@ -1,14 +1,5 @@
 {
 	 "name": "daverodal/testcomposer",
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/daverodal/groovy"
-        }
-    ],
-	    "require": {
-		"daverodal/groovy": "dev-master"
-	    },
 	"autoload":{
 		"files":["funkydir/funkfile.php"]
 	}	
