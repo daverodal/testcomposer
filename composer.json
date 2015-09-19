@@ -1,4 +1,5 @@
 {
+	 "name": "daverodal/testcomposer",
     "repositories": [
         {
             "type": "vcs",
