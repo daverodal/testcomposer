@@ -1,7 +1,8 @@
 {
 	 "name": "daverodal/testcomposer",
 	"autoload":{
-		"files":["funkydir/funkfile.php"]
+		"files":["funkydir/funkfile.php"],
+		"psr-4": {"": "."}
 	},	
 	 "require":{
 		 "sag/sag": "*"
